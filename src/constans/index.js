@@ -229,46 +229,33 @@ const expLogos = [
 
 const testimonials = [
     {
-        name: "Esther Howard",
-        mentions: "@estherhoward",
+        name: "Endo Kersandona",
+        mentions: "Endo Kersandona (LinkedIn)",
         review:
-            "I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
-        imgPath: "/images/client1.png",
+            "I had the pleasure of working with Hadid on Kopra by Mandiri project, and I couldn't be more impressed with their technical skills and dedication. His ability to translate complex requirements into efficient code is exceptional. Hadid consistently goes above and beyond, demonstrating a strong commitment to delivering high quality results on time.\n" +
+            "What truly stands out is his proactive approach to problem solving and collaboration. He is always open to feedback and has a knack for turning challenges into opportunities for innovation. I highly recommend Hadid for any team looking for a talented and reliable developer.",
+        imgPath: "/images/man.png",
     },
     {
-        name: "Wade Warren",
-        mentions: "@wadewarren",
+        name: "Arif Firmansyah",
+        mentions: "Arif Firmansyah (LinkedIn)",
         review:
-            "Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
-        imgPath: "/images/client3.png",
+            "Hadid demonstrates exceptional determination and energy in driving projects to completion. His focus on developing front-end logic and UI, analyzing problems, and tackling them with innovative solutions showcases his excellence as a frontend developer. Combined with his outstanding technical skills, Hadid has been instrumental in successfully delivering projects. Thank you, Hadid, for your dedication and impact!",
+        imgPath: "/images/man.png",
     },
     {
-        name: "Guy Hawkins",
-        mentions: "@guyhawkins",
+        name: "Muhammad Hamdi Sukriyandi",
+        mentions: "Muhammad Hamdi Sukriyandi (LinkedIn)",
         review:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-        imgPath: "/images/client2.png",
+            "Hadid is highly recommended, i'd like to work with him again, he always does his work very well. he can learn and adapt quickly with new frontend programming language.",
+        imgPath: "/images/man.png",
     },
     {
-        name: "Marvin McKinney",
-        mentions: "@marvinmckinney",
+        name: "Otto Tirtayasa Akbar",
+        mentions: "Otto Tirtayasa Akbar (LinkedIn)",
         review:
-            "Adrian was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
-        imgPath: "/images/client5.png",
-    },
-    {
-        name: "Floyd Miles",
-        mentions: "@floydmiles",
-        review:
-            "Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
-        imgPath: "/images/client4.png",
-    },
-    {
-        name: "Albert Flores",
-        mentions: "@albertflores",
-        review:
-            "Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
-        imgPath: "/images/client6.png",
+            "I had the pleasure of working with him for 10 months at Bank Mandiri, where he excelled as a Frontend Developer specializing in Angular. He has an exceptional ability to create responsive, functional, and visually appealing user interfaces. He is detail-oriented, quick to understand project requirements, and adept at solving technical challenges with elegant solutions. Working with him has always been a seamless experience, thanks to his excellent communication skills. If you are looking for a reliable and talented Frontend Developer, I highly recommend him.",
+        imgPath: "/images/man.png",
     },
 ];
 
