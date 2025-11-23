@@ -79,7 +79,7 @@ const ShowcaseSection = () => {
         <section id="work" ref={sectionRef} className="app-showcase">
             <div className="w-full">
                 <div className="mb-10">
-                    <h2 className="text-4xl font-bold mb-6 flex justify-center" ref={title1Ref}>IOS Projects</h2>
+                    <h2 className="md:text-5xl text-3xl font-bold mb-6 flex justify-center" ref={title1Ref}>IOS Projects</h2>
                     <div className="showcaselayout">
                         {/*    LEFT */}
                         <div className="first-project-wrapper" ref={project1Ref}>
@@ -124,7 +124,7 @@ const ShowcaseSection = () => {
                 </div>
 
                 <div>
-                    <h2 className="text-4xl font-bold mb-6 flex justify-center" ref={title2Ref}>Website Projects</h2>
+                    <h2 className="md:text-5xl text-3xl font-bold mb-6 flex justify-center" ref={title2Ref}>Website Projects</h2>
                     <div className="showcaselayout">
                         <div className="first-project-wrapper" ref={project4Ref}>
                             <div className="image-wrapper h-80 bg-[#eeeeee]">

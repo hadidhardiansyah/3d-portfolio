@@ -147,41 +147,69 @@ const techStackIcons = [
 
 const expCards = [
     {
-        review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/exp1.png",
-        logoPath: "/images/logo1.png",
-        title: "Frontend Developer",
-        date: "January 2023 - Present",
-        responsibilities: [
-            "Developed and maintained user-facing features for the Hostinger website.",
-            "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-            "Optimized web applications for maximum speed and scalability.",
-        ],
-    },
-    {
-        review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-        imgPath: "/images/exp2.png",
-        logoPath: "/images/logo2.png",
+        review: "Hadid consistently delivered high-quality fullstack solutions, from designing application architecture to building reliable backend services and scalable frontend features. His structured approach, strong debugging skills, and collaboration across teams made him a key contributor in improving system stability and overall product quality.",
+        imgPath: "/images/fifgroup-logo.png",
+        logoPath: "/images/fifgroup-logo.png",
         title: "Full Stack Developer",
-        date: "June 2020 - December 2023",
+        date: "May 2025 – Present",
+        location: "FIFGROUP – Jakarta, Indonesia",
         responsibilities: [
-            "Led the development of Docker's web applications, focusing on scalability.",
-            "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-            "Contributed to open-source projects that were used with the Docker ecosystem.",
-        ],
+            "Designed application architecture, including backend service structure and database schema (PostgreSQL).",
+            "Created detailed application flow and technical specifications prior to development.",
+            "Developed backend services using Spring Boot 3 with PostgreSQL for efficient data management.",
+            "Implemented frontend features using Angular TypeScript v20, ensuring responsive and maintainable UI components.",
+            "Wrote and maintained unit tests for backend (JUnit, Mockito) and frontend (Jasmine).",
+            "Collaborated with QA and Business Analysts to validate requirements and ensure product quality.",
+            "Supported UAT and production deployments within the release cycle.",
+            "Performed error tracing and debugging in OpenShift (OCP) environments to maintain application reliability.",
+            "Handled bug fixing, optimization, and continuous improvements for application performance.",
+            "Worked in an Agile/Scrum environment, participating in sprint planning, daily stand-ups, and retrospectives."
+        ]
     },
     {
-        review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-        imgPath: "/images/exp3.png",
-        logoPath: "/images/logo3.png",
-        title: "React Native Developer",
-        date: "March 2019 - May 2020",
+        review: "Hadid demonstrated strong frontend engineering skills by delivering critical features for Kopra By Mandiri. His ability to lead feature development, collaborate across teams, and ensure smooth API integration made him a key contributor to improving the platform’s usability and performance.",
+        imgPath: "/images/bank-mandiri-logo.png",
+        logoPath: "/images/bank-mandiri-logo.png",
+        title: "Frontend Angular Developer",
+        date: "February 2024 – December 2024",
+        location: "PT Bank Mandiri Tbk – Jakarta, Indonesia",
         responsibilities: [
-            "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-            "Improved app performance and user experience through code optimization and testing.",
-            "Coordinated with the product team to implement features based on feedback.",
-        ],
+            "Contributed to the development of Kopra By Mandiri, a microfrontend-based platform, focusing on the Value Chain channel using Angular TypeScript, Tailwind CSS, and internal libraries.",
+            "Developed features for Account Payable and Account Receivable, including transactional capabilities such as Invoice Submission (manual input and file upload) and Payment Instruction.",
+            "Led the development of the Supplier Onboarding feature, improving supplier registration and interaction with the platform.",
+            "Worked on Reporting features to deliver seamless user experience and efficient data presentation.",
+            "Implemented UI elements from Figma designs in collaboration with UI/UX and AD teams.",
+            "Collaborated closely with Backend teams to integrate RESTful APIs following Confluence documentation.",
+            "Worked with QA and PO to prioritize, troubleshoot, and resolve functional and UI-related issues.",
+            "Created unit tests for Angular applications using Jasmine to ensure stability and code quality.",
+            "Participated in code reviews, submitting pull requests via Bitbucket and reviewing peers’ submissions.",
+            "Applied clean code practices and used SonarQube to maintain high code quality standards.",
+            "Optimized UI components for modularity, reusability, and ease of maintenance.",
+            "Contributed to UAT, BETA, and Production deployments, resolving bugs and refining features.",
+            "Ensured application performance met business standards through continuous improvements.",
+            "Migrated Angular application from version 16 to version 18."
+        ]
     },
+    {
+        review: "Hadid delivered thorough and reliable performance testing for multiple Mandiri Cash Management platforms. His analytical approach, detailed reporting, and strong collaboration with technical teams helped ensure system stability and performance readiness across environments.",
+        imgPath: "/images/bank-mandiri-logo.png",
+        logoPath: "/images/bank-mandiri-logo.png",
+        title: "Performance Test Engineer",
+        date: "January 2023 – December 2023",
+        location: "PT Bank Mandiri Tbk – Jakarta, Indonesia",
+        responsibilities: [
+            "Conducted performance testing for Mandiri Cash Management (MCM) web applications based on scenarios defined by the PO team.",
+            "Executed performance tests across multiple MCM platforms, including MCM KLN Hongkong, MCM Kopra Cash, and MCM BI FAST.",
+            "Collaborated with the Integrator team to ensure test scenarios were aligned with application specifications.",
+            "Prepared detailed testing reports for review by the Project team and Managers.",
+            "Presented test findings and recommendations to project teams and management.",
+            "Created documentation for migration requirements, supporting smooth migration planning and execution.",
+            "Utilized VuGen and LoadRunner for performance testing to evaluate scalability, stability, and response times.",
+            "Identified bottlenecks and contributed to optimizing application performance.",
+            "Assisted backend engineers in tracing and diagnosing errors identified during performance tests.",
+            "Analyzed API performance to identify slow endpoints, recommending query optimizations for improved efficiency."
+        ]
+    }
 ];
 
 const expLogos = [

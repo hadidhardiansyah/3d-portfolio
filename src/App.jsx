@@ -1,6 +1,7 @@
 import Hero from "./sections/Hero.jsx";
 import ShowcaseSection from "./sections/ShowcaseSection.jsx";
 import NavBar from "./components/NavBar.jsx";
+import ExperienceSection from "./sections/ExperienceSection.jsx";
 
 const App = () => {
     return (
@@ -8,6 +9,7 @@ const App = () => {
             <NavBar />
             <Hero />
             <ShowcaseSection />
+            <ExperienceSection />
         </>
     )
 }
