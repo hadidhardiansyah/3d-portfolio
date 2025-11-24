@@ -269,10 +269,6 @@ const socialImgs = [
         imgPath: "/images/fb.png",
     },
     {
-        name: "x",
-        imgPath: "/images/x.png",
-    },
-    {
         name: "linkedin",
         imgPath: "/images/linkedin.png",
     },
