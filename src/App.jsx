@@ -4,6 +4,7 @@ import NavBar from "./components/NavBar.jsx";
 import ExperienceSection from "./sections/ExperienceSection.jsx";
 import TechStack from "./sections/TechStack.jsx";
 import Testimonials from "./sections/Testimonials.jsx";
+import Contact from "./sections/Contact.jsx";
 
 const App = () => {
     return (
@@ -14,6 +15,7 @@ const App = () => {
             <ExperienceSection />
             <TechStack />
             <Testimonials />
+            <Contact />
         </>
     )
 }
